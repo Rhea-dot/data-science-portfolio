@@ -1,0 +1,6 @@
+# Ignoriere Jupyter-Checkpoints und Python-Cache-Dateien
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignoriere alle Dateien mit der Endung .html
+*.html
